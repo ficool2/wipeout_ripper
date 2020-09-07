@@ -1,0 +1,42 @@
+# Files to ignore when considering what GIT should commit.
+
+# Visual Studio 
+*.suo
+*.user
+*.sln.docstates
+*.obj
+*.pch
+*.tlog
+*.log
+*.scc
+*.exp
+*.ilk
+*.lastbuildstate
+vc100.pdb
+ipch
+*.sdf
+*.opensdf
+*.idb
+*.vcxproj
+*.sentinel
+*.vpc_crc
+*.vcxproj.filters
+*.pdb
+
+# Visual Studio 2017
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# OSX/Linux build products
+*.mak
+*.mak.vpc_crc
+*.xcodeproj/
+*.project
+obj*/
+!devtools/*.mak
+!utils/smdlexp/smdlexp.mak
+*.a
+*.dylib
+*.plist
