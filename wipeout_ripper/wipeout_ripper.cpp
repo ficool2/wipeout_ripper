@@ -1,7 +1,3 @@
-// ================================================================================================
-// All of this code code is AWFUL! I wrote this when I had a bare grasp of programming in general
-// ================================================================================================
-
 //
 // Tool made to rip Wipeout models and convert them to .obj
 // Reference & Documentation: https://github.com/phoboslab/wipeout/blob/master/wipeout.js
